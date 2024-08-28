@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Rita!</strong>👋
 
-> Atualmente cursando o 3º período de Sistemas de Informação - UFPI CSHNB
+> Atualmente cursando Sistemas de Informação na UFPI - CSHNB
 
 🔭 Atualmente estudando a linguagem C e Python
 
