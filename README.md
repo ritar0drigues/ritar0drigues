@@ -2,7 +2,8 @@
 
 > Atualmente cursando Sistemas de Informação na UFPI - CSHNB
 
-🔭 Atualmente estudando a linguagem C e Python
+🔭 Foco na linguagem C, Python e aprendendo Java 
+
 
 ----
 
